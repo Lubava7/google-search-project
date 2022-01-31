@@ -1,0 +1,124 @@
+*{
+   
+}
+a{
+    text-decoration: none;
+    color: #5f6368;
+
+}
+a:hover{
+    
+}
+.top-of-site{
+    border: 1px solid grey;
+    height: 200px;
+    box-shadow: 1px 2px 5px 2px grey;
+
+}
+.google{
+    height: 30px;
+    width: 92px;
+
+}
+.g-search{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    
+}
+.search-box{
+    outline: none;
+    border-radius: 20px;
+    border: 1px solid grey;
+    box-shadow: 1px 2px 3px 1px grey;
+    height: 39px;
+    width: 50%;
+}
+button{
+    height: 28px;
+    width: 36px;
+    padding: 7px;
+    border-radius: 15px;
+    background-color: inherit;
+    border: 1px solid transparent;
+}
+.i-button{
+    position: relative;
+    right: 40px;
+    top: -2px;
+}
+.user-inf{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+    
+}
+.user-link{
+
+}
+.user-menu{
+
+}
+.user-profile{
+    height: 40px;
+    width: 40px;
+
+}
+.o-links{
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+    margin-top: 80px;
+}
+.d-faner{
+
+}
+.r-counter{
+    color: #70757a;
+    justify-content: space-between;
+    min-width: 652px;
+    line-height: 43px;
+    display: flex;
+    position: absolute;
+}
+
+footer{
+   
+}
+
+.g-basement{
+    
+    
+}
+
+.g-basement2{
+  
+   
+   
+}
+
+.top-of-basement{
+    
+
+}
+
+main{
+    margin-top: 50px;
+}
+.g-result-link{
+    color:#1a0dab;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+.g-result-link:hover{
+    text-decoration: underline;
+
+}
+.g-result{
+    padding: 20px;
+    margin-left: 110px;
+    margin-right: 250px;
+    
+}
